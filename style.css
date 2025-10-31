@@ -2,6 +2,10 @@
   padding-top: 50px;
 }
 
+.no-space {
+  padding-top: 0;
+}
+
 .elementor-toggle-item {
   padding: 15px;
 }
