@@ -1,5 +1,9 @@
+.elementor-heading-title {
+  padding-top: 50px;
+}
+
 .elementor-toggle-item {
-  padding: 25px;
+  padding: 15px;
 }
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
