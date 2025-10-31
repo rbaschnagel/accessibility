@@ -9,6 +9,6 @@ h1 {
 }
 
 .elementor-tab-title {
-  padding: 200 px;
   background-color: green;
+  margin: 200 px;
 }
