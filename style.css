@@ -14,7 +14,7 @@
   margin-right: 8px;
 }
 
-.elementor-icon-list-item {
+.elementor-widget .elementor-icon-list-item {
   padding: 200px;
   background-color: pink;
 }
