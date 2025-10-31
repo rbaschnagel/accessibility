@@ -2,14 +2,6 @@ h1 {
   color: yellow;
 }
 
-.toggles {
-  padding: 200 px;
-  color: red;
-  background-color: yellow;
-}
-
 .elementor-toggle .elementor-tab-title {
-  box-sizing: border-box;
-  background-color: pink;
-  margin: 200px;
+  padding: 200px;
 }
