@@ -7,3 +7,8 @@ h1 {
   color: red;
   background-color: yellow;
 }
+
+.elementor-tab-title {
+  padding: 200 px;
+  background-color: green;
+}
