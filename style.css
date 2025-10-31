@@ -8,8 +8,8 @@ h1 {
   background-color: yellow;
 }
 
-.elementor-tab-title {
+.elementor-toggle .elementor-tab-title {
   box-sizing: border-box;
-  background-color: yellow;
-  margin: 200 px;
+  background-color: pink;
+  margin: 200px;
 }
