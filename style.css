@@ -1,10 +1,15 @@
+/* section spacing */
+
 .elementor-section {
   padding-top: 65px;
 }
 
+/* custom class */
 .no-space {
   padding-top: 0;
 }
+
+
 
 /* toggles */
 
@@ -16,8 +21,18 @@
   margin-right: 8px;
 }
 
+
+
 /* link lists - icon lists element */
 
 .elementor-widget .elementor-icon-list-item {
   padding: 25px;
+}
+
+
+
+/* tables */
+
+table tbody tr th.column-1, table tbody tr:last-of-type {
+	border-bottom: 1px solid #ddd;
 }
