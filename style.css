@@ -37,3 +37,6 @@ table tr, table td {
 	border: 1px solid #ddd;
 }
 
+table td {
+	background-color: pink;
+}
