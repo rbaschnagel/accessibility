@@ -34,6 +34,6 @@
 /* tables */
 
 table tr, table td {
-	border-bottom: 10px solid #C8C372;
+	border: 1px solid #ddd;
 }
 
