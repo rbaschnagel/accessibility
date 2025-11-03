@@ -33,14 +33,13 @@
 
 /* tables */
 
-.tablepress tr, .tablepress td {
-	border: 2px solid #ddd;
+.tablepress {
+    --head-text-color: white;
+    --head-bg-color: #1e4d2b;
 }
 
-.tablepress .row-1 {
-	background-color: #CFFC00;
-	border: 2px solid #CFFC00; 
-	color: white;
+.tablepress tr, .tablepress td {
+	border: 2px solid #ddd;
 }
 
 
