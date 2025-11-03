@@ -34,10 +34,11 @@
 /* tables */
 
 .tablepress tr, .tablepress td {
-	border: 1px solid #ddd;
+	border: 5px solid #ddd;
 }
 
 .tablepress .row-1 {
-	background-color: pink;
+	background-color: #1e4d2b;
+	color: white;
 }
 
