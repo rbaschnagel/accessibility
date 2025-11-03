@@ -33,10 +33,10 @@
 
 /* tables */
 
-tablepress tr, tablepress td {
+table tr, table td {
 	border: 1px solid #ddd;
 }
 
-tablepress td {
+table td {
 	background-color: pink;
 }
