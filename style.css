@@ -32,3 +32,12 @@
 
 
 /* tables */
+
+.tablepress tr, .tablepress td {
+	border: 1px solid #ddd;
+}
+
+.tablepress th {
+	background-color: pink;
+}
+
