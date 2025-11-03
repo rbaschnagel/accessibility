@@ -37,7 +37,7 @@
 	border: 1px solid #ddd;
 }
 
-.tablepress thead th {
+.tablepress .row-1 {
 	background-color: pink;
 }
 
