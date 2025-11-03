@@ -33,8 +33,6 @@
 
 /* tables */
 
-table tr, table td {
-	border: 1px solid #ddd;
-		background-color: pink;
-
+.tablepress tr, .tablepress td {
+	border: 10px solid #ddd;
 }
