@@ -33,7 +33,7 @@
 
 /* tables */
 
-table tbody tr th.column-1, table tbody tr:last-of-type {
+table tbody tr tc {
 	border-bottom: 10px solid #ddd;
 }
 
