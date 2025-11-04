@@ -58,7 +58,7 @@
 	text-align: center;
 }
 
-.tutorials-menu {
+.tutorials-menu ul {
 	justify-content: space-between;
-	background-color: pink;
+	background-color: blue;
 }
