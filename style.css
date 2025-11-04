@@ -63,7 +63,7 @@
 	background-color: green;
 }
 
-.tight .elementor-widget .elementor-icon-list-item {
+.elementor-widget .elementor-icon-list-item li {
   padding: 0;
 	background-color: pink;
 }
