@@ -1,17 +1,18 @@
-/* section spacing */
+													/* section spacing */
 
 .elementor-section {
   padding-top: 65px;
 }
 
-/* custom class */
+													/* spacing - custom class */
 .no-space {
   padding-top: 0;
+	background-color: pink;
 }
 
 
 
-/* toggles */
+														/* toggles */
 
 .elementor-toggle-item {
   padding: 15px;
@@ -23,7 +24,7 @@
 
 
 
-/* link lists - icon lists element */
+															/* link lists - icon lists element */
 
 .elementor-widget .elementor-icon-list-item {
   padding: 25px;
@@ -31,7 +32,7 @@
 
 
 
-/* tables */
+															/* tables */
 
 .tablepress tr, .tablepress td {
 	border: 2px solid #ddd;
@@ -47,7 +48,7 @@
 
 
 
-/* tutorials footer */
+															/* tutorials footer - custom class */
 
 .tutorials-footer {
 	border: 2px solid #82c503;
