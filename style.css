@@ -59,7 +59,7 @@
 }
 
 .tutorials-footer > .elementor-container {
-	background-color: pink;
+	border: 2px solid green;
 }
 
 .tutorials-menu ul {
