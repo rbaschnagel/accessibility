@@ -58,19 +58,6 @@
 	border: 5px solid #82c503;
 }
 
-/* .tutorials-footer > .elementor-container {
-	border: 2px solid green;
-}
-
-.tutorials-menu ul {
-	justify-content: space-between;
-} */
-
-.tight .elementor-icon-list-item {
-  padding: 10px; 
-}
-
-
 #menu-tutorials-concepts {
 	column-count: 2;
 }
@@ -94,6 +81,23 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .test .elementor-column {background: pink;
-		width: 100%;}
+  .tutorials-footer .elementor-column {width: 100%;}
 } 
+
+																		/* other footer option 
+																			
+																			.tutorials-footer > .elementor-container {
+																			border: 2px solid green;
+																		}
+																		
+																		.tutorials-menu ul {
+																			justify-content: space-between;
+																		} 
+																		
+																		.tight .elementor-icon-list-item {
+																		  padding: 10px; 
+																		}
+																		*/
+
+
+/* note */
