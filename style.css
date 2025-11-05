@@ -42,7 +42,7 @@
 }
 
 .tablepress th {
-		border: 2px solid #1e4d2b; 
+	border: 2px solid #1e4d2b; 
 }
 
 
@@ -51,7 +51,6 @@
 
 .tutorials-footer {
 	border: 2px solid #82c503;
-	background-color: pink;
 }
 
 .tutorials-footer-heading {
@@ -61,9 +60,8 @@
 
 .tutorials-menu ul {
 	justify-content: space-around;
-	background-color: green;
 }
 
 .tight .elementor-icon-list-item {
-  padding: 0; 
+  padding: 10px; 
 }
