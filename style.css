@@ -70,7 +70,7 @@
   padding: 10px; 
 }
 
-.menu-tutorials-platforms-and-tools {
+#menu-tutorials-platforms-and-tools {
 	background-color: pink;
 	column-count: 2;
 	column-width: 50%;
