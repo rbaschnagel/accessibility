@@ -58,6 +58,10 @@
 	border: 5px solid #82c503;
 }
 
+.tutorials-footer h3 {
+	text-align: center;
+}
+
 #menu-tutorials-concepts {
 	column-count: 2;
 }
