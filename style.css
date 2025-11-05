@@ -75,3 +75,8 @@
 	column-count: 2;
 	column-width: 50%;
 }
+
+#menu-tutorials-concepts {
+	background-color: pink;
+	column-count: 2;
+}
