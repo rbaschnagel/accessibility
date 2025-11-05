@@ -73,6 +73,7 @@
 
 #menu-tutorials-concepts {
 	column-count: 2;
+	column-gap-min: 10px;
 }
 
 #menu-tutorials-concepts li {
@@ -87,7 +88,7 @@
 }
 
 #menu-tutorials-platforms-and-tools li {
-	padding: 7px;
+	padding: 0;
 	-webkit-column-break-inside: avoid; 
 	page-break-inside: avoid; 
 	break-inside: avoid;
