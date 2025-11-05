@@ -85,6 +85,7 @@
 
 #menu-tutorials-platforms-and-tools {
 	column-count: 2;
+	column-gap: 15px;
 }
 
 #menu-tutorials-platforms-and-tools li {
