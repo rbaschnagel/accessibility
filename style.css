@@ -76,12 +76,11 @@
 }
 
 #menu-tutorials-platforms-and-tools li {
-	background-color: yellow;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	background-color: pink;
+	padding: 10px;
 }
 
 #menu-tutorials-concepts {
-	background-color: pink;
 	column-count: 2;
+	padding: 5px;
 }
