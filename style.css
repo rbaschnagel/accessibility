@@ -94,6 +94,6 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .test > .elementor-column {background: orange;
+  .test {background: orange;
 		column-width: 100%;}
 } 
