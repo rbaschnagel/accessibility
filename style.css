@@ -84,9 +84,14 @@
 	break-inside: avoid;
 }
 
-@media only screen and (max-width: 900px) {
-  .tutorials-footer .elementor-column {width: 100%;}
+@media only screen and (max-width: 930px) {
+  #menu-tutorials-concepts {column-count: 1;
+						   background-color: pink;}
 } 
+
+/* @media only screen and (max-width: 900px) {
+  .tutorials-footer .elementor-column {width: 100%;}
+} */
 
 																		/* other footer option 
 																			
