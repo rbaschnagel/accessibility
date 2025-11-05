@@ -70,16 +70,6 @@
   padding: 10px; 
 }
 
-#menu-tutorials-platforms-and-tools {
-	column-count: 2;
-	-webkit-column-break-inside: avoid; 
-	page-break-inside: avoid; 
-	break-inside: avoid;
-}
-
-#menu-tutorials-platforms-and-tools li {
-	padding: 7px;
-}
 
 #menu-tutorials-concepts {
 	column-count: 2;
@@ -91,3 +81,16 @@
 	page-break-inside: avoid; 
 	break-inside: avoid;
 }
+
+#menu-tutorials-platforms-and-tools {
+	column-count: 2;
+}
+
+#menu-tutorials-platforms-and-tools li {
+	padding: 7px;
+	-webkit-column-break-inside: avoid; 
+	page-break-inside: avoid; 
+	break-inside: avoid;
+}
+
+
