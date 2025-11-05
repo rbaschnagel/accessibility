@@ -69,3 +69,9 @@
 .tight .elementor-icon-list-item {
   padding: 10px; 
 }
+
+.menu-tutorials-platforms-and-tools {
+	background-color: pink;
+	column-count: 2;
+	column-width: 50%;
+}
