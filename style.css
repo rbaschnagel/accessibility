@@ -49,13 +49,17 @@
 
 /* tutorials footer - custom class */
 
+.tutorials-footer-heading {
+	background-color: #82c503;
+	text-align: center;
+}
+
 .tutorials-footer {
 	border: 2px solid #82c503;
 }
 
-.tutorials-footer-heading {
-	background-color: #82c503;
-	text-align: center;
+.tutorials-footer > .elementor-container {
+	background-color: pink;
 }
 
 .tutorials-menu ul {
@@ -65,3 +69,6 @@
 .tight .elementor-icon-list-item {
   padding: 10px; 
 }
+
+
+
