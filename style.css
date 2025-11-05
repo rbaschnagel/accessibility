@@ -95,5 +95,5 @@
 
 @media only screen and (max-width: 992px) {
   .test {background: orange;
-		column-count: 1;}
+		column-width: 100%;}
 } 
