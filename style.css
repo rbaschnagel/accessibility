@@ -73,11 +73,10 @@
 
 #menu-tutorials-concepts {
 	column-count: 2;
-	column-gap: 70px;
 }
 
 #menu-tutorials-concepts li {
-	padding: 7px;
+	padding: 7px 25px 7px 0;
 	-webkit-column-break-inside: avoid; 
 	page-break-inside: avoid; 
 	break-inside: avoid;
@@ -88,7 +87,7 @@
 }
 
 #menu-tutorials-platforms-and-tools li {
-	padding: 7px 15px 7px 0;
+	padding: 7px 25px 7px 0;
 	-webkit-column-break-inside: avoid; 
 	page-break-inside: avoid; 
 	break-inside: avoid;
