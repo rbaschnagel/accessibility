@@ -88,7 +88,7 @@
 }
 
 #menu-tutorials-platforms-and-tools li {
-	padding: 0;
+	padding-bottom: 5px;
 	-webkit-column-break-inside: avoid; 
 	page-break-inside: avoid; 
 	break-inside: avoid;
