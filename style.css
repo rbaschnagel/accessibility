@@ -81,8 +81,7 @@
 }
 
 @media only screen and (max-width: 930px) {
-  #menu-tutorials-concepts, #menu-tutorials-platforms-and-tools {column-count: 1;
-						   background-color: pink;}
+  #menu-tutorials-concepts, #menu-tutorials-platforms-and-tools {column-count: 1;}
 } 
 
 /* @media only screen and (max-width: 900px) {
