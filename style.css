@@ -47,7 +47,7 @@
 
 
 
-									/* tutorials footer - custom classes */
+									/* tutorials footer - custom classes for the sections */
 
 .tutorials-footer-heading {
 	background-color: #82c503;
@@ -87,14 +87,14 @@
 } 
 
 
-									/* embedded videos */
+									/* embedded videos - custom class for the element */
 
 .video-600 {
 	max-width: 600px;
 }
 
 
-/* core concepts - custom class */
+/* core concepts - custom class for the text box element */
 
 .concepts-list li {
 	background-color: pink;
