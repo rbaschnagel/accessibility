@@ -9,10 +9,6 @@
   padding-top: 0;
 }
 
-.top-margin .elementor-column-gap-wide>.elementor-column>.elementor-element-populated {
-	--widgets-spacing-row: 0;
-}
-
 
 
 /* toggles */
@@ -51,7 +47,7 @@
 
 
 
-/* tutorials footer - custom class */
+/* tutorials footer - custom classes */
 
 .tutorials-footer-heading {
 	background-color: #82c503;
@@ -61,6 +57,8 @@
 .tutorials-footer {
 	border: 5px solid #82c503;
 }
+
+/* tutorials footer */
 
 #menu-tutorials-concepts {
 	column-count: 2;
@@ -88,24 +86,4 @@
   #menu-tutorials-concepts, #menu-tutorials-platforms-and-tools {column-count: 1;}
 } 
 
-/* @media only screen and (max-width: 900px) {
-  .tutorials-footer .elementor-column {width: 100%;}
-} */
 
-																		/* other footer option 
-																			
-																			.tutorials-footer > .elementor-container {
-																			border: 2px solid green;
-																		}
-																		
-																		.tutorials-menu ul {
-																			justify-content: space-between;
-																		} 
-																		
-																		.tight .elementor-icon-list-item {
-																		  padding: 10px; 
-																		}
-																		*/
-
-
-/* note */
