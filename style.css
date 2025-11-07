@@ -97,10 +97,10 @@
 /* core concepts - custom class for the text box element */
 
 .concepts-list li {
-	background-color: yellow;
 	padding: 5px;
 	color: #1e4d2b;
 	font-weight: bold;
+	border-bottom: 1px gray;
 }
 
 .concepts-list li::marker {
