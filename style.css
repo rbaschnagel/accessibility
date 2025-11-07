@@ -97,8 +97,7 @@
 									/* core concepts - custom class for the text editor element */
 
 .concepts-list li, .concepts-list li::marker {
-	padding: 25px 0 10px 0;
+	padding: 10px 0;
 	color: #1e4d2b;
 	font-weight: bold;
-	border-bottom: 1px solid #ddd;
 }
