@@ -96,14 +96,12 @@
 
 									/* core concepts - custom class for the text editor element */
 
-.concepts-list li {
+.concepts-list li, .concepts-list li::marker {
 	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
+	border-top: 1px  solid #ddd;
 	color: #1e4d2b;
 	font-weight: bold;
 }
 
-.concepts-list li::marker {
-	color: #1e4d2b;
-	font-weight: bold;
-}
+
