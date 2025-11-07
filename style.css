@@ -97,7 +97,8 @@
 									/* core concepts - custom class for the text editor element */
 
 .concepts-list li {
-	padding: 10px auto 10px auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	color: #1e4d2b;
 	font-weight: bold;
 }
