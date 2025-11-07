@@ -1,10 +1,10 @@
-								/* section spacing */
+									/* section spacing */
 
 .elementor-section {
   padding-top: 65px;
 }
 
-								/* spacing - custom class */
+									/* spacing - custom class */
 .no-space {
   padding-top: 0;
 }
@@ -87,22 +87,22 @@
 } 
 
 
-									/* embedded videos - custom class for the element */
+									/* embedded videos - custom class for the video element */
 
 .video-600 {
 	max-width: 600px;
 }
 
 
-/* core concepts - custom class for the text box element */
+									/* core concepts - custom class for the text editor element */
 
 .concepts-list li {
 	padding: 5px;
 	color: #1e4d2b;
 	font-weight: bold;
-	border-bottom: 1px gray;
+	border-bottom: 1px solid gray;
 }
 
 .concepts-list li::marker {
-	color: purple;
+	color: #1e4d2b;
 }
