@@ -9,11 +9,8 @@
   padding-top: 0;
 }
 
-.top-margin {
-	margin-top: 0;
-	padding-top: 0;
-	margin-bottom: 0;
-	padding-bottom: 0;
+.top-margin .elementor-element {
+	--widgets-spacing-row: 0;
 }
 
 
