@@ -87,3 +87,8 @@
 } 
 
 
+/* embedded videos */
+
+.video-600 {
+	max-width: 600px;
+}
