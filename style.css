@@ -98,7 +98,7 @@
 
 .concepts-list li, .concepts-list li::marker {
 	padding-top: 20px;
-	padding-bottom: 15px;
+	padding-bottom: 20px;
 	border-bottom: 1px  solid #ddd;
 	color: #1e4d2b;
 	font-weight: bold;
