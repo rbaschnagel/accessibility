@@ -1,17 +1,17 @@
-/* section spacing */
+								/* section spacing */
 
 .elementor-section {
   padding-top: 65px;
 }
 
-/* spacing - custom class */
+								/* spacing - custom class */
 .no-space {
   padding-top: 0;
 }
 
 
 
-/* toggles */
+									/* toggles */
 
 .elementor-toggle-item {
   padding: 15px;
@@ -23,7 +23,7 @@
 
 
 
-/* link lists - icon lists element */
+									/* link lists - icon lists element */
 
 .elementor-widget .elementor-icon-list-item {
   padding: 25px; 
@@ -31,7 +31,7 @@
 
 
 
-/* tables */
+									/* tables */
 
 .tablepress tr, .tablepress td {
 	border: 2px solid #ddd;
@@ -47,7 +47,7 @@
 
 
 
-/* tutorials footer - custom classes */
+									/* tutorials footer - custom classes */
 
 .tutorials-footer-heading {
 	background-color: #82c503;
@@ -58,7 +58,7 @@
 	border: 5px solid #82c503;
 }
 
-/* tutorials footer */
+									/* tutorials footer */
 
 #menu-tutorials-concepts {
 	column-count: 2;
@@ -87,8 +87,16 @@
 } 
 
 
-/* embedded videos */
+									/* embedded videos */
 
 .video-600 {
 	max-width: 600px;
+}
+
+
+/* core concepts - custom class */
+
+.concepts-list li {
+	background-color: pink;
+	padding: 5px;
 }
