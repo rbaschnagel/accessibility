@@ -9,7 +9,7 @@
   padding-top: 0;
 }
 
-.top-margin .elementor-element {
+.top-margin .elementor-column-gap-wide>.elementor-column>.elementor-element-populated {
 	--widgets-spacing-row: 0;
 }
 
