@@ -100,7 +100,7 @@
 	padding: 10px auto 5px 0;
 	color: #1e4d2b;
 	font-weight: bold;
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid #ddd;
 }
 
 .concepts-list li::marker {
