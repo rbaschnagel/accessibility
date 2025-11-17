@@ -107,7 +107,6 @@
 
 .image-block img {
 	display: block;
-	border: 10px solid blue;
-	background-color: pink;
+	padding: 10px;
 }
 
