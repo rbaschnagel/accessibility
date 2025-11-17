@@ -105,9 +105,9 @@
 }
 
 
-.list-image-block {
+.image-block img {
 	display: block;
-	border: 10px pink solid;
+	border: 10px solid blue;
 	background-color: pink;
 }
 
