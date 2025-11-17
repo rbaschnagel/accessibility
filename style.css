@@ -107,5 +107,6 @@
 
 .list-image-block {
 	display: block;
+	border: 10px pink solid;
 }
 
