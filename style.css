@@ -11,7 +11,7 @@
 
 
 
-									/* toggles */
+									/* toggle element */
 
 .elementor-toggle-item {
   padding: 15px;
@@ -23,7 +23,7 @@
 
 
 
-									/* link lists - icon lists element */
+									/* icon lists element */
 
 .elementor-widget .elementor-icon-list-item {
   padding: 25px; 
@@ -94,7 +94,7 @@
 }
 
 
-									/* core concepts - custom class for the text editor element */
+									/* core concepts tutorial pages - custom class for the text editor element */
 
 .concept-list li, .concept-list li::marker {
 	padding-top: 25px;
@@ -104,9 +104,11 @@
 	font-weight: bold;
 }
 
+									/* images within lists - custom class for the text editor element */
 
 .image-block img {
 	display: block;
+	padding-top: 15px;
 	padding-bottom: 20px;
 }
 
