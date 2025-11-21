@@ -15,15 +15,19 @@
 
 .elementor-toggle-item {
   padding: 15px;
-border: 2px solid pink;
+border: 2px solid green;
 }
 
-.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed {
+.elementor-toggle-item h3 {
+    --font-size: var(--font-size-default);
+}
+
+/*.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed {
 	font-size: 10px !important;
 	background-color: pink;
 }
 
-/*.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
+.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	margin-right: 30px;
 	font-size: calc(1rem + 0.25vw);
 	width: .5em;
