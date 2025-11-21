@@ -24,12 +24,12 @@
 
 .elementor-toggle-icon {
 	width: .5em;
-}
+}*/
 
 .elementor-toggle-title {
-	margin: auto;
+	font-size: 10px;
 	background-color: pink;
-}*/
+}
 
 .elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-opened {
     display: block;
