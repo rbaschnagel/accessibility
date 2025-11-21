@@ -33,12 +33,12 @@
 
 .elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-opened {
     display: block;
-    font-size: 45px;
+    font-size: 5px;
 }
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed {
     display: block;
-    font-size: 45px;
+    font-size: 5px;
 }
 
 									/* icon lists element */
