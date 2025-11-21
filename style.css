@@ -19,11 +19,12 @@
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	margin-right: 8px; 
-	background-color: pink;
 }
 
 .elementor-toggle {
 	font-size: calc(1rem + 0.25vw);
+		background-color: pink;
+
 }
 
 									/* icon lists element */
