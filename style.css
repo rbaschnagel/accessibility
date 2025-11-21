@@ -20,6 +20,7 @@
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	margin-right: 30px;
 	font-size: calc(1rem + 0.25vw);
+	width: .5em;
 }
 
 /*.elementor-toggle-icon {
@@ -28,7 +29,7 @@
 
 .elementor-toggle-title {
 	font-size: 10px;
-	background-color: pink;
+	background-color: yellow;
 }
 
 /*.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
