@@ -18,8 +18,8 @@
 }
 
 .elementor-toggle .elementor-tab-title {
-	font-size: 10px; !important
-	background-color: pink;
+	font-size: 10px !important;
+	background-color: orange;
 }
 
 /*.elementor-toggle .elementor-toggle-icon {
