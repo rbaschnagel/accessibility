@@ -22,8 +22,9 @@
 }
 
 .elementor-toggle .elementor-tab-title {
-	font-size: calc(1rem + 0.25vw);
-		background-color: pink;
+/*	font-size: calc(1rem + 0.25vw);*/
+	font-size: 1rem;
+		background-color: blue;
 }
 
 									/* icon lists element */
