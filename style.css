@@ -21,7 +21,9 @@
   margin-right: 8px;
 }
 
-
+.elementor-toggle-title {
+	font-size: 1em;
+}
 
 									/* icon lists element */
 
@@ -111,4 +113,5 @@
 	padding-top: 15px;
 	padding-bottom: 20px;
 }
+
 
