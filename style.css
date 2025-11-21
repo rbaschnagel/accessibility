@@ -22,12 +22,12 @@
 }
 
 .elementor-toggle-icon {
-	font-size: 1em;
+	width: .5em;
 }
 
 .elementor-toggle-title {
 	font-size: calc(1rem + 0.25vw);
-	background-color: pink;
+	background-color: orange;
 }
 
 									/* icon lists element */
