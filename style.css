@@ -21,10 +21,10 @@
 	margin-right: 8px; 
 }
 
-.elementor-toggle .elementor-tab-title {
+.elementor-toggle .elementor-tab-title .elementor-toggle-icon {
 /*	font-size: calc(1rem + 0.25vw);*/
 	font-size: 1rem;
-		background-color: yellow;
+		background-color: pink;
 }
 
 									/* icon lists element */
