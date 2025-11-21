@@ -17,14 +17,18 @@
   padding: 15px;
 }
 
+.fas fa-plus-square {
+	font-size: 10px;
+}
+
 .elementor-toggle .elementor-tab-title {
 	font-size: 10px;
 }
 
-.elementor-toggle .elementor-toggle-icon {
+/*.elementor-toggle .elementor-toggle-icon {
 	font-size: 10px;
 	background-color: pink;
-}
+}*/
 
 /*.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	margin-right: 30px;
