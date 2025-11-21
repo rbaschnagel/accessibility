@@ -22,7 +22,7 @@
 }
 
 .elementor-toggle-title {
-	font-size: 1em;
+	font-size: calc(1rem + 0.25vw);
 }
 
 									/* icon lists element */
