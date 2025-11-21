@@ -18,7 +18,7 @@
 }
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
-	margin-right: 8px; 
+	
 	font-size: calc(1rem + 0.25vw);
 }
 
@@ -28,7 +28,7 @@
 
 .elementor-toggle-title {
 	margin: auto;
-	background-color: orange;
+	background-color: pink;
 }
 
 									/* icon lists element */
