@@ -15,17 +15,13 @@
 
 .elementor-toggle-item {
   padding: 15px;
-}
- 
-.elementor-tab-title .elementor-active .elementor-toggle-icon .elementor-toggle-icon-left .elementor-toggle-icon-closed {
-	background-color: pink;
-	font-size: 10px;
+border: 2px solid green;
 }
 
-/*.elementor-toggle .elementor-toggle-icon {
+.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-left .elementor-toggle-icon-closed {
 	font-size: 10px;
 	background-color: pink;
-}*/
+}
 
 /*.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	margin-right: 30px;
