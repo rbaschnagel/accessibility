@@ -16,10 +16,10 @@
 .elementor-toggle-item {
   padding: 15px;
 }
-
-.elementor-toggle .elementor-tab-title {
-	font-size: 10px !important;
-	background-color: orange;
+ 
+.elementor-tab-title .elementor-active .elementor-toggle-icon .elementor-toggle-icon-left .elementor-toggle-icon-closed {
+	background-color: pink;
+	font-size: 10px;
 }
 
 /*.elementor-toggle .elementor-toggle-icon {
