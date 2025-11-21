@@ -33,6 +33,7 @@
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	font-size: 10px;
+	display: block;
 }
 
 									/* icon lists element */
