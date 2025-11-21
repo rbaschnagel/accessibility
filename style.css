@@ -19,10 +19,10 @@
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
 	margin-right: 8px; 
-	
+	background-color: blue;
 }
 
-.elementor-tab-title {
+.elementor-toggle-title {
 	font-size: calc(1rem + 0.25vw);
 }
 
