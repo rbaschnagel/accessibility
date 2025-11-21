@@ -15,7 +15,15 @@
 
 .elementor-toggle-item {
   padding: 15px;
+}
+
+.elementor-toggle .elementor-tab-title {
 	font-size: 10px;
+}
+
+.elementor-toggle .elementor-toggle-icon {
+	font-size: 10px;
+	background-color: pink;
 }
 
 /*.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
