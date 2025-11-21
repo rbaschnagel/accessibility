@@ -17,8 +17,9 @@
   padding: 15px;
 }
 
-.fas fa-plus-square {
+.fas .fa-plus-square {
 	font-size: 10px;
+	background-color: pink;
 }
 
 .elementor-toggle .elementor-tab-title {
