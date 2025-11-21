@@ -21,10 +21,9 @@
 	margin-right: 8px; 
 }
 
-.elementor-toggle {
+.elementor-toggle .elementor-tab-title {
 	font-size: calc(1rem + 0.25vw);
 		background-color: pink;
-
 }
 
 									/* icon lists element */
