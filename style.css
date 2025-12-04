@@ -15,9 +15,10 @@
 
 .elementor-toggle-item {
   padding: 15px;
+	border: 2px solid pink;
 }
 
-.elementor-toggle-item .elementor-toggle-title h3 {
+.elementor-toggle-title h3 {
     --font-size: var(--font-size-default);
 }
 
