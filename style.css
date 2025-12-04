@@ -19,7 +19,8 @@
 }
 
 .elementor-toggle-item h {
-    --font-size: var(--font-size-default);
+    font-size: var(--font-size-default);
+	font-weight: var(--font-weight);
 }
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
