@@ -15,12 +15,12 @@
 
 .elementor-toggle-item {
   padding: 15px;
-
+	border-right: 2px solid pink;
 }
 
 .elementor-toggle-item h3 {
-    font-size: var(--font-size-default);
-	font-weight: var(--font-weight);
+    --font-size: var(--font-size-default);
+	--font-weight: var(--font-weight);
 }
 
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
