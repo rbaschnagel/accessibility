@@ -15,43 +15,16 @@
 
 .elementor-toggle-item {
   padding: 15px;
-border: 2px solid green;
 }
 
-.elementor-toggle-item h3 {
+.elementor-toggle-item .elementor-toggle-title h3 {
     --font-size: var(--font-size-default);
 }
 
-/*.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed {
-	font-size: 10px !important;
-	background-color: pink;
-}
-
 .elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
-	margin-right: 30px;
-	font-size: calc(1rem + 0.25vw);
-	width: .5em;
-}
-
-.elementor-toggle-icon {
-	width: .5em;
-font-size: 10px;
-}
-
-.elementor-toggle-title {
-	font-size: 10px;
-	background-color: pink;
-}*/
-
-/*.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left {
-	font-size: 10px;
-	margin-right: 20px;
-}
-
-.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-opened {
-    font-size: 10px;
 	margin-right: 8px;
-}*/
+}
+
 
 									/* icon lists element */
 
