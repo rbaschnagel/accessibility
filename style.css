@@ -101,8 +101,8 @@
 									/* core concepts tutorial pages - custom class for the text editor element */
 
 .concept-list li, .concept-list li::marker {
-	padding-top: 25px;
-	padding-bottom: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	color: #1e4d2b;
 	font-weight: bold;
 }
