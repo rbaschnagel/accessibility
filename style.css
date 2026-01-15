@@ -26,6 +26,11 @@
 	margin-right: 8px;
 }
 
+.elementor-toggle-item img {
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
 
 									/* icon lists element */
 
@@ -107,12 +112,12 @@
 	font-weight: bold;
 }
 
-									/* images within lists - custom class for the toggle element */
+									/* images within lists - custom class for the toggle element
 
 .block-images img {
 	display: block;
 	padding-top: 15px;
 	padding-bottom: 20px;
-}
+}*/
 
 
