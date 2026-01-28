@@ -35,6 +35,10 @@
   padding-top: 0;
 }
 
+									/* full width */
+.full-width {
+	width: 100%;
+}
 									/* toggle element */
 
 .elementor-toggle-item {
