@@ -1,11 +1,24 @@
 									/* container background colors - custom class */
-.csu-green {
-	background-color: #1e4d2b;
-}
-.oval-green {
-	background-color: #006144;
-}
-
+.csu-green-bg {
+	background-color: #1e4d2b;}
+.csu-gold-bg {
+	background-color: #C8C372;}
+.oval-green-bg {
+	background-color: #006144;}
+.lovers-lane-bg {
+	background-color: #82c503;}
+.energy-green-bg {
+	background-color: #CFFC00;}
+.flower-trial-red {
+	background-color: #E56A54;}
+.powered-purple-bg {
+	background-color: #7E5475;}
+.horsetooth-blue-bg {
+	background-color: ##008FB3;}
+.stalwart-slate-bg { 
+	background-color: #105456;}
+.sunshine-bg {
+	background-color: #FFC038;}
 									/* section spacing */
 
 .elementor-section {
