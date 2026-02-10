@@ -35,6 +35,11 @@
   padding-top: 0;
 }
 
+.extra-margin {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 									/* full width */
 .full-width {
 	display: block;
