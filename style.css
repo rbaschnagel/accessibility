@@ -35,9 +35,11 @@
   padding-top: 0;
 }
 
-.extra-margin {
+.extra-margin-left {
 	margin-left: 10px;
-	margin-right: 10px;
+}
+.extra-margin-right {
+		margin-right: 10px;
 }
 
 									/* full width */
