@@ -37,7 +37,8 @@
 
 									/* full width */
 .full-width {
-	width: 100% !important;
+	display: block;
+	width: 100%;
 }
 									/* toggle element */
 
