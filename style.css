@@ -11,19 +11,26 @@
 					.oval-green-bg li::marker {
 						color: white;}
 .lovers-lane-bg {
-	background-color: #82c503;}
+	background-color: #82c503;
+	color: #1e4d2b;}
 .energy-green-bg {
-	background-color: #CFFC00;}
+	background-color: #CFFC00;
+	color: #1e4d2b;}
 .flower-trial-red {
-	background-color: #E56A54;}
+	background-color: #E56A54;
+	color: black;}
 .powered-purple-bg {
-	background-color: #7E5475;}
+	background-color: #7E5475;
+	color: white;}
 .horsetooth-blue-bg {
-	background-color: ##008FB3;}
+	background-color: ##008FB3;
+	color: black;}
 .stalwart-slate-bg { 
-	background-color: #105456;}
+	background-color: #105456;
+	color: white;}
 .sunshine-bg {
-	background-color: #FFC038;}
+	background-color: #FFC038;
+	color: black;}
 
 
 									/* section spacing */
