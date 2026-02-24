@@ -1,7 +1,7 @@
 									/* container background colors - custom class */
 .csu-green-bg {
 	background-color: #1e4d2b;
-	color: white;}
+	color: white !important;}
 .csu-gold-bg {
 	background-color: #C8C372;
 	color: #1e4d2b;}
