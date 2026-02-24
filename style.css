@@ -2,7 +2,7 @@
 .csu-green-bg {
 	background-color: #1e4d2b;
 	padding: 10px;}
-					.csu-green-bg p {
+					.csu-green-bg h3, p {
 						color: white;}
 					.csu-green-bg li::marker {
 						color: white;}
