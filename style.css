@@ -3,7 +3,7 @@
 	background-color: #1e4d2b;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.csu-green-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
+					.csu-green-bg > h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: white;}
 				/*	.csu-green-bg li::marker {
 						color: white;}*/
@@ -19,7 +19,7 @@
 	background-color: #006144;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.oval-green-bg li::marker {
+					.oval-green-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: white;}
 					.oval-green-bg li::marker {
 						color: white;}
@@ -27,7 +27,7 @@
 	background-color: #82c503;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.lovers-lane-bg li::marker {
+					.lovers-lane-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: #1e4d2b;}
 					.lovers-lane-bg li::marker {
 						color: #1e4d2b;}
@@ -35,7 +35,7 @@
 	background-color: #CFFC00;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.energy-green-bg li::marker {
+					.energy-green-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: #1e4d2b;}
 					.energy-green-bg li::marker {
 						color: #1e4d2b;}
@@ -43,7 +43,7 @@
 	background-color: #E56A54;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.flower-trial-red-bg li::marker {
+					.flower-trial-red-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: black;}
 					.flower-trial-red-bg li::marker {
 						color: black;}
@@ -51,7 +51,7 @@
 	background-color: #7E5475;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.powered-purple-bg li::marker {
+					.powered-purple-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: white;}
 					.powered-purple-bg li::marker {
 						color: white;}
@@ -59,7 +59,7 @@
 	background-color: ##008FB3;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.horsetooth-blue-bg li::marker {
+					.horsetooth-blue-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: black;}
 					.horsetooth-blue-bg li::marker {
 						color: black;}
@@ -67,7 +67,7 @@
 	background-color: #105456;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.stalwart-slate-bg li::marker {
+					.stalwart-slate-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: white;}
 					.stalwart-slate-bg li::marker {
 						color: white;}
@@ -75,7 +75,7 @@
 	background-color: #FFC038;
 	padding-left: 10px;
 	padding-right: 10px;}
-					.sunshine-bg li::marker {
+					.sunshine-bg h1, h2, h3, h4, h5, h6, p, li, li::marker {
 						color: #1e4d2b;}
 					.sunshine-bg li::marker {
 						color: #1e4d2b;}
