@@ -1,10 +1,15 @@
 									/* container background colors - custom class */
 .csu-green-bg {
 	background-color: #1e4d2b;
-	color: white !important;}
+	color: white !important;
+	padding: 10px;}
+					.csu-green-bg li::marker {
+						color: white;}
 .csu-gold-bg {
 	background-color: #C8C372;
 	color: #1e4d2b;}
+					.csu-gold-bg li::marker {
+						color: white;}
 .oval-green-bg {
 	background-color: #006144;
 	color: white;}
@@ -13,24 +18,38 @@
 .lovers-lane-bg {
 	background-color: #82c503;
 	color: #1e4d2b;}
+					.lovers-lane-bg li::marker {
+						color: white;}
 .energy-green-bg {
 	background-color: #CFFC00;
 	color: #1e4d2b;}
-.flower-trial-red {
+					.energy-green-bg li::marker {
+						color: white;}
+.flower-trial-red-bg {
 	background-color: #E56A54;
 	color: black;}
+					.flower-trial-red-bg li::marker {
+						color: white;}
 .powered-purple-bg {
 	background-color: #7E5475;
 	color: white;}
+					.powered-purple-bg li::marker {
+						color: white;}
 .horsetooth-blue-bg {
 	background-color: ##008FB3;
 	color: black;}
+					.horsetooth-blue-bg li::marker {
+						color: white;}
 .stalwart-slate-bg { 
 	background-color: #105456;
 	color: white;}
+					.stalwart-slate-bg li::marker {
+						color: white;}
 .sunshine-bg {
 	background-color: #FFC038;
 	color: black;}
+					.sunshine-bg li::marker {
+						color: white;}
 
 
 									/* section spacing */
