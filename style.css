@@ -1,56 +1,66 @@
 									/* container background colors - custom class */
 .csu-green-bg {
 	background-color: #1e4d2b;
-	padding: 10px;}
-					.csu-green-bg h, p, li {
+	padding-left: 10px;
+	padding-right: 10px;}
+					.csu-green-bg h1, h2, h3, h4, h5, h6, p, li {
 						color: white;}
 					.csu-green-bg li::marker {
 						color: white;}
 .csu-gold-bg {
 	background-color: #C8C372;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.csu-gold-bg li::marker {
 						color: #1e4d2b;}
 					.csu-gold-bg li::marker {
 						color: #1e4d2b;}
 .oval-green-bg {
 	background-color: #006144;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.oval-green-bg li::marker {
 						color: white;}
 .lovers-lane-bg {
 	background-color: #82c503;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.lovers-lane-bg li::marker {
 						color: #1e4d2b;}
 .energy-green-bg {
 	background-color: #CFFC00;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.energy-green-bg li::marker {
 						color: #1e4d2b;}
 .flower-trial-red-bg {
 	background-color: #E56A54;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.flower-trial-red-bg li::marker {
 						color: black;}
 .powered-purple-bg {
 	background-color: #7E5475;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.powered-purple-bg li::marker {
 						color: white;}
 .horsetooth-blue-bg {
 	background-color: ##008FB3;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.horsetooth-blue-bg li::marker {
 						color: black;}
 .stalwart-slate-bg { 
 	background-color: #105456;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.stalwart-slate-bg li::marker {
 						color: white;}
 .sunshine-bg {
 	background-color: #FFC038;
-}
+	padding-left: 10px;
+	padding-right: 10px;}
 					.sunshine-bg li::marker {
 						color: #1e4d2b;}
 
