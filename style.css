@@ -231,6 +231,6 @@
 	text-align: center;
 }
 
-.wrapped-button {
+.wrapped-button * {
 	overflow-wrap: break-word;
 }
