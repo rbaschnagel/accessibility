@@ -182,3 +182,9 @@
 	color: #1e4d2b;
 	font-weight: 600;
 } 
+
+									/* centered buttons */
+.centered-button {
+	width: 100%;
+	text-align: center;
+}
