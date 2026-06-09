@@ -64,8 +64,7 @@
 									/* container border colors - custom class */
 .csu-green-border {
 	border: 2px solid #1e4d2b;
-	padding-left: 15px;
-	padding-right: 15px;}
+	padding: 15px;}
 
 .csu-gold-border {
 	border: 2px solid #C8C372;
