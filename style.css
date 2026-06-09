@@ -226,7 +226,7 @@
 	font-weight: 600;
 } 
 
-									/* centered buttons */
+									/* buttons - custom class for the button element */
 .centered-button {
 	text-align: center;
 }
