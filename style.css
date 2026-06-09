@@ -42,7 +42,7 @@
 					.powered-purple-bg * {
 						color: white;}
 .horsetooth-blue-bg {
-	background-color: ##008FB3;
+	background-color: #008FB3;
 	padding-left: 15px;
 	padding-right: 15px;}
 					.horsetooth-blue-bg * {
@@ -67,48 +67,48 @@
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.csu-gold-bg {
-	border: 2px #C8C372;
+.csu-gold-border {
+	border: 2px solid #C8C372;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.oval-green-bg {
-	border: 2px #006144;
+.oval-green-border {
+	border: 2px solid #006144;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.lovers-lane-bg {
-	border: 2px #82c503;
+.lovers-lane-border {
+	border: 2px solid #82c503;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.energy-green-bg {
-	border: 2px #CFFC00;
+.energy-green-border {
+	border: 2px solid #CFFC00;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.flower-trial-red-bg {
-	border: 2px #E56A54;
+.flower-trial-red-border {
+	border: 2px solid #E56A54;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.powered-purple-bg {
-	border: 2px #7E5475;
+.powered-purple-border {
+	border: 2px solid #7E5475;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.horsetooth-blue-bg {
-	border: 2px ##008FB3;
+.horsetooth-blue-border {
+	border: 2px solid #008FB3;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.stalwart-slate-bg { 
-	border: 2px #105456;
+.stalwart-slate-border { 
+	border: 2px solid #105456;
 	padding-left: 15px;
 	padding-right: 15px;}
 
-.sunshine-bg {
-	border: 2px #FFC038;
+.sunshine-border {
+	border: 2px solid #FFC038;
 	padding-left: 15px;
 	padding-right: 15px;}
 
