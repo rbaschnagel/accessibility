@@ -230,3 +230,7 @@
 .centered-button {
 	text-align: center;
 }
+
+.wrapped-button {
+	overflow-wrap: anywhere;
+}
