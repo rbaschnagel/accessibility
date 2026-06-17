@@ -231,3 +231,17 @@
 	text-align: center;
 }
 
+.footer-button {
+	display:block; 
+	background-color: #C8C372;
+	border: 3px solid white;
+	color: #006144;
+	text-wrap:nowrap;
+	font-size: 1.5rem;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	padding: 25px 15px;
+}
+
+/* 	font-size: clamp(0.1rem, 5vw, 1.7rem); */
