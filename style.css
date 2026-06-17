@@ -234,6 +234,7 @@
 									/* buttons - custom class for the button element */
 .centered-button {
 	text-align: center;
+	justify-content: center;
 }
 
 .footer-button a {
@@ -247,5 +248,3 @@
 	font-weight: bold;
 	padding: 25px 15px;
 }
-
-/* 	font-size: clamp(0.1rem, 5vw, 1.7rem); */
