@@ -231,7 +231,7 @@
 	text-align: center;
 }
 
-.footer-button {
+.footer-button a {
 	display:block; 
 	background-color: #C8C372;
 	border: 3px solid white;
