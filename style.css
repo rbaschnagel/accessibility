@@ -199,11 +199,11 @@
 	break-inside: avoid;
 }
 
-#menu-tutorials-platforms-and-tools {
+#menu-tutorials-content-types {
 	column-count: 2;
 }
 
-#menu-tutorials-platforms-and-tools li {
+#menu-tutorials-content-types li {
 	padding: 7px 25px 7px 0;
 	-webkit-column-break-inside: avoid; 
 	page-break-inside: avoid; 
@@ -211,7 +211,7 @@
 }
 
 @media only screen and (max-width: 930px) {
-  #menu-tutorials-concepts, #menu-tutorials-platforms-and-tools {column-count: 1;}
+  #menu-tutorials-concepts, #menu-tutorials-content-types {column-count: 1;}
 } 
 
 
