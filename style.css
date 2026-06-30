@@ -274,6 +274,6 @@
 	color: #CFFC00;
 } 
 
-.hover-outline :hover, :focus {
+.hover-outline img:hover, img:focus {
 	border: solid 2px #CFFC00;
 } 
