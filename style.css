@@ -266,7 +266,13 @@
 	padding: 25px 15px;
 }
 
+.footer-button a:hover, a:focus {
+	background-color: #CFFC00;
+} 
 
+.custom-footer-links a:hover, a:focus {
+	color: #CFFC00;
+} 
 
 .hover-outline img:hover, img:focus {
 	border: solid 2px #CFFC00;
