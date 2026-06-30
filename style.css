@@ -234,7 +234,7 @@
 
 									/* embedded videos - custom class for the div within a toggle element */
 
-.video-600-inline {
+.video-600-inline iframe {
 	max-width: 600px;
 	max-height: 300px;
 }
