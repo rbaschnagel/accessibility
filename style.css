@@ -269,3 +269,7 @@
 .footer-button a:hover, a:focus {
 	background-color: #CFFC00;
 } 
+
+.custom-footer-links a:hover, a:focus {
+	color: #CFFC00;
+} 
