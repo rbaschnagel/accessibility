@@ -276,4 +276,5 @@
 
 .hover-outline a:hover, a:focus {
 	border: solid 2px #CFFC00;
+	padding: 1px;
 } 
