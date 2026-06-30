@@ -232,6 +232,12 @@
 	max-width: 600px;
 }
 
+									/* embedded videos - custom class for the div within a toggle element */
+
+.video-600-inline {
+	max-width: 600px;
+	max-height: 300px;
+}
 
 									/* core concepts tutorial pages - custom class for the text editor element */
 
