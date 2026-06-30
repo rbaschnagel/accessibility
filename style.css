@@ -265,3 +265,7 @@
 	font-weight: bold;
 	padding: 25px 15px;
 }
+
+.footer-button a:hover, a:focus {
+	background-color: #CFFC00;
+} 
