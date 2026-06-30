@@ -273,3 +273,7 @@
 .custom-footer-links a:hover, a:focus {
 	color: #CFFC00;
 } 
+
+.hover-outline a:hover, a:focus {
+	border: solid 2px #CFFC00;
+} 
