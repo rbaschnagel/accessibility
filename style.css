@@ -108,7 +108,6 @@
 	padding: 15px;}
 
 
-
 									/* section spacing */
 
 .elementor-section {
@@ -248,16 +247,21 @@
 	font-weight: 600;
 } 
 
-									/* buttons - custom class for the button element */
+									/* buttons - custom classes for the button element */
 .centered-button {
 	text-align: center;
 	justify-content: center;
 }
 
-									/* buttons - sitewide footer */
+.hover-csu-green a:hover, .hover-csu-green a:focus {
+	color: #1e4d2b;
+	border: #1e4d2b;
+}
+
+									/* footer buttons - custom classes for each of the footer link types */
 
 .footer-button a {
-	display:block; 
+	display: block; 
 	background-color: #C8C372;
 	border: 3px solid white;
 	color: #006144;
