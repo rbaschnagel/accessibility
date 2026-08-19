@@ -271,7 +271,7 @@
 									/* footer buttons - custom classes for each of the footer link types - sitewide */
 
 .footer-button a {
-	display: block; 
+	/*display: block; */
 	background-color: #C8C372;
 	border: 3px solid white;
 	color: #006144;
