@@ -148,7 +148,7 @@
 	border-color: #82C503 !important;
 }
 
-									/* toggle element */
+									/* toggle element 
 
 
 .elementor-toggle-item {
@@ -169,11 +169,12 @@
 	padding-top: 15px;
 	padding-bottom: 20px;
 }
+*/
 
 									/* icon lists element */
 
 .elementor-widget .elementor-icon-list-item {
-  padding: 25px; 
+  padding: 15px; 
 }
 
 
