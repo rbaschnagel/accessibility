@@ -116,7 +116,7 @@
 
 
 									/* spacing - custom class */
-.no-space {
+.no-space {		/* NOTE: for an unknown reason, this class affects the bottom padding of containers instead of top*/
   padding-top: 0;
 }
 
