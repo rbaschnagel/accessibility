@@ -248,6 +248,7 @@
 
 .video-600 {
 	max-width: 600px;
+	max-height: 400px;
 }
 
 									/* embedded videos - custom class for the div within a toggle element */
