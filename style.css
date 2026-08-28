@@ -231,7 +231,7 @@
 	max-height: 600px;
 }
 
-									/* embedded videos - custom class for the div within a toggle element */
+									/* embedded videos - custom class for the toggle element OR any element or parent element of an embedded video */
 
 .video-800-inline iframe {
 	max-width: 800px;
