@@ -238,6 +238,9 @@
 	max-height: 300px;
 }
 
+.video-half iframe {
+	width: 50%;
+}
 									/* core concepts tutorial pages - custom class for the text editor element */
 
 .concept-list li, .concept-list li::marker {
