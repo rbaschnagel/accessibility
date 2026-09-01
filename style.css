@@ -135,12 +135,12 @@
 	width: 100%;
 }
 
-									/* buttons - custom classes for the button element 
+									/* buttons - custom classes for the button element */
 .centered-button {
 	text-align: center;
 	justify-content: center;
 }
-*/
+
 									/* links - custom class to change color on hover */
 
 .hover-color a:hover, .hover-color a:focus {
