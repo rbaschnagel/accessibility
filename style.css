@@ -238,6 +238,11 @@
 	max-height: 500px;
 }
 
+#elementor-widget-n-accordion iframe {
+	max-width: 800px;
+	max-height: 500px;
+}
+
 									/* core concepts tutorial pages - custom class for the text editor element */
 
 .concept-list li, .concept-list li::marker {
