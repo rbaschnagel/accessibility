@@ -238,7 +238,7 @@
 	max-height: 500px;
 }
 
-#elementor-widget-n-accordion iframe {
+.elementor-widget-n-accordion iframe {
 	max-width: 800px;
 	max-height: 500px;
 }
